@@ -12,4 +12,8 @@ with lib; {
   femi = {
     urxvt.enable = true;
   };
+
+  home.sessionPath = [
+    "~/bin"
+  ];
 }
